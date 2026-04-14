@@ -12,3 +12,4 @@ Content:
 
 - examples_FRE.csv
 
+in a more readable format examples_EN.pdf
